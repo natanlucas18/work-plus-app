@@ -7,6 +7,6 @@ export enum PathLinks {
   PAY_PERIODS = '/pay-periods',
   EXTRA_EARNINGS = '/extra-earnings',
   REPORTS = '/reports',
-  SIGN_IN = '/sign-in',
-  SIGN_UP = '/sign-up',
+  SIGN_IN = '/authentication/sign-in',
+  SIGN_UP = '/authentication/sign-up',
 }

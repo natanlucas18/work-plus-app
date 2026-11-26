@@ -1,3 +1,4 @@
+"use client"
 import { useAuthStore } from "@/stores/auth-store";
 import React, { useEffect } from "react";
 
